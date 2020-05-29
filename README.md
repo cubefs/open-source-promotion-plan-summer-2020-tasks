@@ -158,12 +158,12 @@ ChubaoFS设计相关论文被国际顶级数据库会议SIGMOD2019发表： CFS:
    1. 完成Rook ChubaoFS Console的开发，实现ChubaoFS Console基于Rook的方式进行安装
    2. 实现ChubaoFS Console基于Rook的方式进行升级
    3. 实现ChubaoFS Console基于Rook的方式进行卸载
-项目技术要求：
+- 项目技术要求：
    1. Golang
    2. Kubernetes
    3. Docker
    4. Shell
-相关仓库地址: 
+- 相关仓库地址: 
    - https://github.com/chubaofs/chubaofs
    - https://github.com/kubernetes/kubernetes
    - https://github.com/kubernetes/client-go
@@ -225,12 +225,12 @@ ChubaoFS设计相关论文被国际顶级数据库会议SIGMOD2019发表： CFS:
    1. 完成Rook ChubaoFS Monitor的开发，实现ChubaoFS Monitor基于Rook的方式进行安装
    2. 实现ChubaoFS Monitor基于Rook的方式进行升级
    3. 实现ChubaoFS Monitor基于Rook的方式进行卸载
-项目技术要求：
+- 项目技术要求：
    1. Golang
    2. Kubernetes
    3. Docker
    4. Shell
-相关仓库地址: 
+- 相关仓库地址: 
    - https://github.com/chubaofs/chubaofs
    - https://github.com/kubernetes/kubernetes
    - https://github.com/kubernetes/client-go
