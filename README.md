@@ -91,7 +91,7 @@ ChubaoFS设计相关论文被国际顶级数据库会议SIGMOD2019发表： CFS:
 - 项目描述: 利用已有的Raft和Rocksdb，组合实现最终一致的分布式Key-Value数据库软件。效果类似etcd或者是zookper。
 - 项目难度: `中`
 - 项目设计导师: Jian Sun
-- 导师联系方式: [sunjian126@jd.com](mailto:sunjian126@jd.com)
+- 导师联系方式: [ansj-sun@163.com](mailto:ansj-sun@163.com)
 - 项目产出要求: 
     - 完成源码开发及相关测试用例
     - 实现CRUD的基本功能。 
