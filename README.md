@@ -29,7 +29,7 @@
 
 ![ChubaoFS](chubaofs.png)
 
-ChubaoFS ChubaoFS是一个开源，开放的云原生存储平台，提供分布式文件系统与对象存储服务，为云原生应用提供计算与存储分离的持久化存储方案。 ChubaoFS提供通用存储引擎，支持多种读写模型，支持多租户，针对小文件处理做了专门的优化，兼容POSIX协议以及S3协议，是可以实现一份数据通过多种接口访问。
+ChubaoFS是一个开源，开放的云原生存储平台，提供分布式文件系统与对象存储服务，为云原生应用提供计算与存储分离的持久化存储方案。 ChubaoFS提供通用存储引擎，支持多种读写模型，支持多租户，针对小文件处理做了专门的优化，兼容POSIX协议以及S3协议，是可以实现一份数据通过多种接口访问。
 
 ChubaoFS设计相关论文被国际顶级数据库会议SIGMOD2019发表： CFS: A Distributed File System for Large Scale Container Platforms. SIGMOD‘19, June 30-July 5, 2019, Amsterdam, Netherlands. https://dl.acm.org/citation.cfm?doid=3299869.3314046
 
