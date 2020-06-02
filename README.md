@@ -269,7 +269,7 @@ ChubaoFS设计相关论文被国际顶级数据库会议SIGMOD2019发表： CFS:
 申请学生需要同时完成以下“联系社区”和“官网投递”两个环节：
 
 ### 1. 联系社区（2020年5月15日至6月20日）
-进入**Summer 2020 - ChubaoFS**微信群与社区导师沟通
+进入**Summer 2020 - ChubaoFS**微信群与社区导师沟通<br>
 <img src="wechat.jpeg" alt="Summer 2020 - ChubaoFS" width="250">
 
 ### 2. 官网投递（2020年6月1日至6月20日）
